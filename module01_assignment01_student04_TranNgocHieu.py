@@ -6,3 +6,5 @@ người Hà Lan. Phiên bản đầu tiên của python được ra mắt vào 
 Nguồn tham khảo:
 https://pythoninstitute.org/about-python
 """
+
+"""Just checking how code reviews are done on github"""
