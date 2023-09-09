@@ -1,5 +1,1 @@
-import shutil
-shutil.rmtree("./.git")
-"""
-Comment:
-"""
+print("Hello.")
